@@ -2,8 +2,7 @@
 #### Hello my name is Made Wena Harilegawa
 ![Hello my name is Made Wena Harilegawa](https://github.com/WenaHarle/WenaHarle/blob/main/banner.jpg)
 
-
-<a🔭 I’m currently I’m currently study at Brawijaya University/></a>
+<p> I’m currently I’m currently study at Brawijaya University</p>
 🌱 I’m currently learning PHP, CSS and Python
 👯 I’m looking to collaborate on IoT Project
 ⚡ Fun fact: I am not a computer science student but an electrical engineering student
