@@ -3,10 +3,10 @@
 ![Hello my name is Made Wena Harilegawa](https://github.com/WenaHarle/WenaHarle/blob/main/banner.jpg)
 
 
-🔭 I’m currently I’m currently study at Brawijaya University
-🌱 I’m currently learning PHP, CSS and Python
-👯 I’m looking to collaborate on IoT Project
-⚡ Fun fact: I am not a computer science student but an electrical engineering student
+- 🔭 I’m currently I’m currently study at Brawijaya University
+- 🌱 I’m currently learning PHP, CSS and Python
+- 👯 I’m looking to collaborate on IoT Project
+- ⚡ Fun fact: I am not a computer science student but an electrical engineering student
 
 <h2 align="left">🌐 Connect with me:</h2>
 <p align="left">
