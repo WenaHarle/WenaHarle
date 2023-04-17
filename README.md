@@ -2,7 +2,7 @@
 
 #### Hello my name is Made Wena Harilegawa
 
-![Hello my name is Made Wena Harilegawa](https://github.com/WenaHarle/WenaHarle/blob/main/banner.jpg)
+![](https://github.com/user/banner.png](https://github.com/WenaHarle/WenaHarle/blob/main/banner.jpg)
 
 
 <p>🔭I’m currently I’m currently study at Brawijaya University
