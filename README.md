@@ -3,7 +3,7 @@
 #### Hello my name is Made Wena Harilegawa
 ![](https://github.com/WenaHarle/WenaHarle/blob/main/Untitled-1.png)
 <p>🔭I’m currently I’m currently study at Brawijaya University
-<br>🌱 I’m currently learning PHP, CSS and Python
+<br>🌱 I’m currently learning PHP, CSS, JS, and Python
 <br>👯 I’m looking to collaborate on IoT Project 
 <br>⚡ Fun fact: I am not a computer science student but an electrical engineering student </p>
 
