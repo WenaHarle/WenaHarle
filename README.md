@@ -23,6 +23,7 @@
 ![WenaHarle's Stats](https://github-readme-stats.vercel.app/api?username=WenaHarle&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 ![WenaHarle's Streak](https://github-readme-streak-stats.herokuapp.com/?user=WenaHarle&theme=radical&hide_border=true)
+
 ![WenaHarle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WenaHarle&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 
