@@ -20,10 +20,9 @@
 
 <h2 align="left">📊 GitHub Stats:</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wenaharle&show_icons=true&locale=en&layout=compact" alt="wenaharle" /></p>
+![WenaHarle's Stats](https://github-readme-stats.vercel.app/api?username=WenaHarle&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wenaharle&show_icons=true&locale=en" alt="wenaharle" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wenaharle&" alt="wenaharle" /></p>
+![WenaHarle's Streak](https://github-readme-streak-stats.herokuapp.com/?user=WenaHarle&theme=radical&hide_border=true)
+![WenaHarle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WenaHarle&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 
