@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, ### 💫 About Me:
+#### Hello my name is Made Wena Harilegawa
+![Hello my name is Made Wena Harilegawa](https://github.com/WenaHarle/WenaHarle/blob/main/banner.jpg)
 
-<!--
-**WenaHarle/WenaHarle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently I’m currently study at Brawijaya University
+- 🌱 I’m currently learning PHP, CSS and Python
+- 👯 I’m looking to collaborate on IoT Project
+- ⚡ Fun fact: I am not a computer science student but an electrical engineering student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Python / PHP / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
