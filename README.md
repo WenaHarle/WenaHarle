@@ -1,4 +1,4 @@
-### 💫 About Me:
+## 💫 About Me:
 #### Hello my name is Made Wena Harilegawa
 ![Hello my name is Made Wena Harilegawa](https://github.com/WenaHarle/WenaHarle/blob/main/banner.jpg)
 
