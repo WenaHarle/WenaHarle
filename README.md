@@ -1,66 +1,119 @@
-# 💫 About Me:
+# 🔥 About Me
 
-### Hi, I'm **Made Wena Harilegawa**  
+## Hey there! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="15px"/>
 <img src="https://github.com/WenaHarle/WenaHarle/blob/main/Untitled-1.png" alt="Banner" width="100%">
 
-🔭 **Currently studying:** Electrical Engineering at **Brawijaya University**  
-🌱 **Learning:** JavaScript
-🤝 **Looking to collaborate on:** IoT and Automation Projects  
-⚡ **Fun fact:** While not a computer science major, I thrive on solving tech challenges as an electrical engineering enthusiast!  
-
----
-
-# 🌐 Connect with Me:
-
-<p align="left">
-<a href="https://twitter.com/mwharlew" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="40" width="40"/></a>
-<a href="https://linkedin.com/in/made-wena-harilegawa" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40"/></a>
-<a href="https://instagram.com/mw.harilegawa" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-icon.svg" alt="Instagram" height="40" width="40"/></a>
-</p>
-
----
-
-# 💻 Skills & Tools:
-
-### Programming Languages:
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-</p>
-
-### Frameworks & Libraries:
-<p align="left">
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>
-</p>
-
-### Web Dev Tools :
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  
-### Databases:
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-</p>
-
-### Development Tools:
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-</p>
+<h3 align="center">
+I'm Made Wena Harilegawa and I'm glad you're here! 
+</h3>
 
 
----
+### Quick Facts:
 
-# 📊 GitHub Stats:
+- 🎓 **Electrical Engineering Student**  
+- 🤖 Passionate about **IoT**, **Robotics**, and **Machine Learning**  
+- 💻 Currently working at Brawijaya Robotics, And PT. SIKLON 
+- 🔧 Love tinkering with hardware and software to bring ideas to life!  
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=WenaHarle&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WenaHarle&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WenaHarle&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
-</p>
+## 🛠️ Tools & Technologies I Work With
+<table>
+<tr>
+  <td>
+    <b>Languages</b>
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C Badge">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Badge">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge">
+  </td>
+</tr>
+<tr>
+  <td>
+    <b>Frameworks & Libraries</b>
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge">
+    <img src="https://img.shields.io/badge/Laravel-E23D28?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Badge">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS Badge">
+  </td>
+</tr>
+<tr>
+  <td>
+    <b>Web Development</b>
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge">
+  </td>
+</tr>
+<tr>
+  <td>
+    <b>AI & Machine Learning</b>
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge">
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras Badge">
+    <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn Badge">
+  </td>
+</tr>
+<tr>
+  <td>
+    <b>Databases</b>
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge">
+  </td>
+</tr>
+<tr>
+  <td>
+    <b>Development Tools</b>
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Badge">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge">
+    <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge">
+  </td>
+</tr>
+<tr>
+  <td>
+    <b>Robotics</b>
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2 Badge">
+    <img src="https://img.shields.io/badge/Gazebo-00AEEF?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo Badge">
+    <img src="https://img.shields.io/badge/PyBullet-3066A3?style=for-the-badge&logo=python&logoColor=white" alt="PyBullet Badge">
+  </td>
+</tr>
+<tr>
+  <td>
+    <b>Operating Systems</b>
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Badge">
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C8C?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux Badge">
+    <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" alt="CentOS Badge">
+  </td>
+</tr>
+</table>
 
----
+
+
+## 🌐 Connect with Me
+<a href="https://twitter.com/mwharlew">![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)</a>
+<a href="https://linkedin.com/in/made-wena-harilegawa">![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)</a>
+<a href="https://instagram.com/mw.harilegawa">![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)</a>
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WenaHarle&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WenaHarle&theme=tokyonight&hide_border=true)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WenaHarle&theme=tokyonight)
