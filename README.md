@@ -45,8 +45,6 @@
   
 ### Databases:
 <p align="left">
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
 </p>
 
@@ -54,10 +52,6 @@
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.ros.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS 2" width="40" height="40"/></a>
-  <a href="https://pybullet.org/" target="_blank"><img src="https://raw.githubusercontent.com/bulletphysics/bullet3/master/docs/pybulletquickstartguide/images/pybullet_logo.svg" alt="PyBullet" width="40" height="40"/></a>
-  <a href="https://gazebosim.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ignition_gazebo_logo.svg/120px-Ignition_gazebo_logo.svg.png" alt="Gazebo" width="40" height="40"/></a>
-  <a href="https://flutter.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
 </p>
 
 
