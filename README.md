@@ -9,8 +9,8 @@ I'm **Made Wena Harilegawa** and I'm glad you're here! 😎
 ### Quick Facts:
 
 - 🎓 **Electrical Engineering Student**  
-- 🤖 Passionate about **ROS 2**, **Robotics**, and **Machine Learning**  
-- 💻 Currently working on sign language classification using CNN  
+- 🤖 Passionate about **IoT**, **Robotics**, and **Machine Learning**  
+- 💻 Currently working at Brawijaya Robotics, And PT. SIKLON 
 - 🔧 Love tinkering with hardware and software to bring ideas to life!  
 
 ## 🖥️ Tech Stack
