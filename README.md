@@ -3,8 +3,7 @@
 ## Hey there! 👋
 
 <h3 align="center">
-I'm **Made Wena Harilegawa** and I'm glad you're here!
-<img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="15px"/>
+I'm Made Wena Harilegawa and I'm glad you're here! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="15px"/>
 </h3>
 
 
