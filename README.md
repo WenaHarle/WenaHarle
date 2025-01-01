@@ -36,7 +36,6 @@ I'm **Made Wena Harilegawa** and I'm glad you're here! 😎
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge">
     <img src="https://img.shields.io/badge/Laravel-E23D28?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Badge">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS Badge">
-    <img src="https://img.shields.io/badge/PyBullet-3066A3?style=for-the-badge&logo=python&logoColor=white" alt="PyBullet Badge">
   </td>
 </tr>
 <tr>
@@ -76,8 +75,6 @@ I'm **Made Wena Harilegawa** and I'm glad you're here! 😎
   <td>
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Badge">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
-    <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2 Badge">
-    <img src="https://img.shields.io/badge/Gazebo-00AEEF?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo Badge">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge">
     <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge">
