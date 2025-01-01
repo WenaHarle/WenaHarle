@@ -80,6 +80,7 @@ I'm **Made Wena Harilegawa** and I'm glad you're here! 😎
     <img src="https://img.shields.io/badge/Gazebo-00AEEF?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo Badge">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge">
+    <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge">
   </td>
 </tr>
 <tr>
@@ -93,6 +94,7 @@ I'm **Made Wena Harilegawa** and I'm glad you're here! 😎
   </td>
 </tr>
 </table>
+
 
 ## 🌐 Connect with Me
 <a href="https://twitter.com/mwharlew">![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)</a>
