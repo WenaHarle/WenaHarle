@@ -4,7 +4,7 @@
 <img src="https://github.com/WenaHarle/WenaHarle/blob/main/Untitled-1.png" alt="Banner" width="100%">
 
 🔭 **Currently studying:** Electrical Engineering at **Brawijaya University**  
-🌱 **Learning:** PHP, CSS, JavaScript, Python  
+🌱 **Learning:** PHP, CSS, JavaScript, Python, C++, C#, Dart  
 🤝 **Looking to collaborate on:** IoT and Automation Projects  
 ⚡ **Fun fact:** While not a computer science major, I thrive on solving tech challenges as an electrical engineering enthusiast!  
 
@@ -29,6 +29,10 @@
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
+  <a href="https://dart.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/></a>
 </p>
 
 ### Frameworks & Libraries:
@@ -39,8 +43,9 @@
 
 ### Databases:
 <p align="left">
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://mariadb.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/></a>
 </p>
 
 ### Development Tools:
