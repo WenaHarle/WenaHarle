@@ -36,6 +36,7 @@ I'm **Made Wena Harilegawa** and I'm glad you're here! 😎
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge">
     <img src="https://img.shields.io/badge/Laravel-E23D28?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Badge">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS Badge">
+    <img src="https://img.shields.io/badge/PyBullet-3066A3?style=for-the-badge&logo=python&logoColor=white" alt="PyBullet Badge">
   </td>
 </tr>
 <tr>
@@ -68,6 +69,7 @@ I'm **Made Wena Harilegawa** and I'm glad you're here! 😎
     <img src="https://img.shields.io/badge/ROS 2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2 Badge">
     <img src="https://img.shields.io/badge/Gazebo-00AEEF?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo Badge">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge">
   </td>
 </tr>
 <tr>
@@ -81,6 +83,7 @@ I'm **Made Wena Harilegawa** and I'm glad you're here! 😎
   </td>
 </tr>
 </table>
+
 
 
 ## 🌐 Connect with Me
