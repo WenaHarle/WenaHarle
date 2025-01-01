@@ -51,6 +51,16 @@ I'm **Made Wena Harilegawa** and I'm glad you're here! 😎
 </tr>
 <tr>
   <td>
+    <b>AI & Machine Learning</b>
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge">
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras Badge">
+    <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn Badge">
+  </td>
+</tr>
+<tr>
+  <td>
     <b>Databases</b>
   </td>
   <td>
@@ -66,7 +76,7 @@ I'm **Made Wena Harilegawa** and I'm glad you're here! 😎
   <td>
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Badge">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
-    <img src="https://img.shields.io/badge/ROS 2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2 Badge">
+    <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2 Badge">
     <img src="https://img.shields.io/badge/Gazebo-00AEEF?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo Badge">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge">
@@ -83,8 +93,6 @@ I'm **Made Wena Harilegawa** and I'm glad you're here! 😎
   </td>
 </tr>
 </table>
-
-
 
 ## 🌐 Connect with Me
 <a href="https://twitter.com/mwharlew">![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)</a>
