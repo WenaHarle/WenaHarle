@@ -85,6 +85,16 @@ I'm **Made Wena Harilegawa** and I'm glad you're here! 😎
 </tr>
 <tr>
   <td>
+    <b>Robotics</b>
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2 Badge">
+    <img src="https://img.shields.io/badge/Gazebo-00AEEF?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo Badge">
+    <img src="https://img.shields.io/badge/PyBullet-3066A3?style=for-the-badge&logo=python&logoColor=white" alt="PyBullet Badge">
+  </td>
+</tr>
+<tr>
+  <td>
     <b>Operating Systems</b>
   </td>
   <td>
@@ -94,6 +104,7 @@ I'm **Made Wena Harilegawa** and I'm glad you're here! 😎
   </td>
 </tr>
 </table>
+
 
 
 ## 🌐 Connect with Me
