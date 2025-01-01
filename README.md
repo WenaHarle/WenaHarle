@@ -1,15 +1,17 @@
+# 🔥 About Me
 
-## 🤓 About Me
+## Hey there! 👋
 
-<h3 align="center">
-Hi, I'm Made Wena Harilegawa
-<img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="15px"/>
-</h3>
+I'm **Made Wena Harilegawa** and I'm glad you're here! 😎
 
-🏫 &nbsp;Dedicated student of Electrical Engineering at **Brawijaya University**<br>
-🤝 &nbsp;Passionate collaborator in IoT and Automation projects<br>
-🤖 &nbsp;Eager to explore Machine Learning, Embedded Systems, and Robotics<br>
-⚡ &nbsp;Fun fact: Tackling tech challenges despite not majoring in CS excites me!<br>
+![Waving Hand](https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif)
+
+### Quick Facts:
+
+- 🎓 **Electrical Engineering Student**  
+- 🤖 Passionate about **ROS 2**, **Robotics**, and **Machine Learning**  
+- 💻 Currently working on sign language classification using CNN  
+- 🔧 Love tinkering with hardware and software to bring ideas to life!  
 
 ## 🖥️ Tech Stack
 <table>
