@@ -4,7 +4,7 @@
 <img src="https://github.com/WenaHarle/WenaHarle/blob/main/Untitled-1.png" alt="Banner" width="100%">
 
 🔭 **Currently studying:** Electrical Engineering at **Brawijaya University**  
-🌱 **Learning:** PHP, CSS, JavaScript, Python, C++, C#, Dart  
+🌱 **Learning:**JavaScript
 🤝 **Looking to collaborate on:** IoT and Automation Projects  
 ⚡ **Fun fact:** While not a computer science major, I thrive on solving tech challenges as an electrical engineering enthusiast!  
 
