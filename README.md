@@ -1,6 +1,7 @@
 # 🔥 About Me
 
 ## Hey there! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="15px"/>
+<img src="https://github.com/WenaHarle/WenaHarle/blob/main/Untitled-1.png" alt="Banner" width="100%">
 
 <h3 align="center">
 I'm Made Wena Harilegawa and I'm glad you're here! 
