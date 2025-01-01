@@ -4,7 +4,7 @@
 
 I'm **Made Wena Harilegawa** and I'm glad you're here! 😎
 
-![Robot](https://em-content.zobj.net/source/noto-emoji-animations/344/robot-face_1f916.gif =25x25)
+![Robot](https://em-content.zobj.net/source/noto-emoji-animations/344/robot-face_1f916.gif)
 
 ### Quick Facts:
 
