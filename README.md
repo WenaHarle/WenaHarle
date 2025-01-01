@@ -4,8 +4,6 @@
 
 I'm **Made Wena Harilegawa** and I'm glad you're here! 😎
 
-![Robot](https://em-content.zobj.net/source/noto-emoji-animations/344/robot-face_1f916.gif)
-
 ### Quick Facts:
 
 - 🎓 **Electrical Engineering Student**  
@@ -13,7 +11,7 @@ I'm **Made Wena Harilegawa** and I'm glad you're here! 😎
 - 💻 Currently working at Brawijaya Robotics, And PT. SIKLON 
 - 🔧 Love tinkering with hardware and software to bring ideas to life!  
 
-## 🖥️ Tech Stack
+## 🛠️ Tools & Technologies I Work With
 <table>
 <tr>
   <td>
@@ -36,6 +34,8 @@ I'm **Made Wena Harilegawa** and I'm glad you're here! 😎
   <td>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge">
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge">
+    <img src="https://img.shields.io/badge/Laravel-E23D28?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Badge">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS Badge">
   </td>
 </tr>
 <tr>
@@ -45,6 +45,7 @@ I'm **Made Wena Harilegawa** and I'm glad you're here! 😎
   <td>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge">
   </td>
 </tr>
 <tr>
@@ -69,7 +70,18 @@ I'm **Made Wena Harilegawa** and I'm glad you're here! 😎
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge">
   </td>
 </tr>
+<tr>
+  <td>
+    <b>Operating Systems</b>
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Badge">
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C8C?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux Badge">
+    <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" alt="CentOS Badge">
+  </td>
+</tr>
 </table>
+
 
 ## 🌐 Connect with Me
 <a href="https://twitter.com/mwharlew">![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)</a>
