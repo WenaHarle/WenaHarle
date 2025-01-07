@@ -3,9 +3,11 @@
 
 <h3 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=22D3EE&width=435&lines=Hello%2C+I'm+Made+Wena+Harilegawa!+<img+src='https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif'>;I'm+glad+you're+here!" alt="Typing SVG">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=22D3EE&width=435&lines=Hello%2C+I'm+Made+Wena+Harilegawa!" alt="Typing SVG">
     </a>
+    <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="25px" style="margin-left: 10px;"/>
 </h3>
+
 
 
 
