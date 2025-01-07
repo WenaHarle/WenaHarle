@@ -120,6 +120,7 @@
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WenaHarle&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WenaHarle&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=WenaHarle&theme=radical)](https://git.io/streak-stats)
 
 
 
