@@ -117,5 +117,7 @@ I'm Made Wena Harilegawa and I'm glad you're here!
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WenaHarle&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WenaHarle&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=WenaHarle&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
