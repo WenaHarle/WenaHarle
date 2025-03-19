@@ -111,7 +111,7 @@
 </tr>
 <tr>
   <td>
-    <b>Hardware & FPGA</b>
+    <b>RTL</b>
   </td>
   <td>
     <img src="https://img.shields.io/badge/Verilog-EE4C2C?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog Badge">
