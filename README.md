@@ -15,7 +15,7 @@
 
 - 🎓 **Electrical Engineering Student**  
 - 🤖 Passionate about **IoT**, **Robotics**, and **Machine Learning**  
-- 💻 Currently working at Brawijaya Robotics, And PT. SIKLON 
+- 💻 Currently working at Brawijaya Robotics, PT. SIKLON, and Student Coordinators of the UB AI Center
 - 🔧 Love tinkering with hardware and software to bring ideas to life!  
 
 ## 🛠️ Tools & Technologies I Work With
