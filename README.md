@@ -109,7 +109,19 @@
     <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" alt="CentOS Badge">
   </td>
 </tr>
+<tr>
+  <td>
+    <b>Hardware & FPGA</b>
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/FPGA-0091EA?style=for-the-badge&logo=intel&logoColor=white" alt="FPGA Badge">
+    <img src="https://img.shields.io/badge/Verilog-EE4C2C?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog Badge">
+    <img src="https://img.shields.io/badge/VHDL-4A4A4A?style=for-the-badge&logo=vhdl&logoColor=white" alt="VHDL Badge">
+    <img src="https://img.shields.io/badge/Vivado-FFB500?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado Badge">
+  </td>
+</tr>
 </table>
+
 
 
 
