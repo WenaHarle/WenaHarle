@@ -15,7 +15,7 @@
 
 - 🎓 **Electrical Engineering Student**  
 - 🤖 Passionate about **IoT**, **Robotics**, **Machine Learning**, and **IC Design**
-- 💻 Currently working at Brawijaya Robotics, DIICES Research Group and Student Coordinators of the UB AI Center
+- 💻 Currently working at Brawijaya Robotics, Student Coordinators DIICES Research Group and Student Coordinators of the UB AI Center
 - 🔧 Love tinkering with hardware and software to bring ideas to life!  
 
 ## 🛠️ Tools & Technologies I Work With
