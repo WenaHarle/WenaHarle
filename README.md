@@ -42,6 +42,19 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🛠️ Development Boards & Hardware</b></summary>
+<br>
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![FPGA Zynq](https://img.shields.io/badge/FPGA%20Zynq-E60012?style=for-the-badge&logo=xilinx&logoColor=white)
 
 </details>
 
@@ -78,6 +91,7 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
 
 </details>
 
@@ -90,6 +104,9 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 </details>
 
@@ -110,6 +127,7 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C8C?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 </details>
 
@@ -120,6 +138,7 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 ![Verilog](https://img.shields.io/badge/Verilog-EE4C2C?style=for-the-badge&logo=verilog&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-4A4A4A?style=for-the-badge&logo=vhdl&logoColor=white)
 ![Vivado](https://img.shields.io/badge/Vivado-FFB500?style=for-the-badge&logo=xilinx&logoColor=white)
+![Vitis HLS](https://img.shields.io/badge/Vitis%20HLS-FF6900?style=for-the-badge&logo=xilinx&logoColor=white)
 
 </details>
 
