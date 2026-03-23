@@ -98,7 +98,7 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 - [Audio Fingerprint](https://github.com/WenaHarle/Audio_FP)
 
 ### Learning Module
-- 
+- [ROS 2 Bahasa Tutorial](https://github.com/WenaHarle/ROS2_GUIDE)
 - 
 ---
 
