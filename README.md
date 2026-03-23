@@ -75,9 +75,7 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 <summary><b>🤖 AI & Machine Learning</b></summary>
 <br>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
@@ -87,9 +85,7 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 <summary><b>🗄️ Databases</b></summary>
 <br>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
 
@@ -162,21 +158,20 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 ---
 ## 🌟 Featured Projects
 
-### 🔥 [CNN Image Classifier](https://github.com/username/project1)
-Deep learning model for image classification using PyTorch.
+### CV Project
+- [CNN Image Classifier](https://github.com/username/project1)
 
-### 🤖 [IoT Smart Monitoring](https://github.com/username/project2)
-Real-time sensor monitoring system using ESP32.
+### IoT Project
+[IoT Smart Monitoring](https://github.com/username/project2)
 
-### ⚡ [FPGA SNN EKG Classifier](https://github.com/username/project3)
-Low-power ECG classification using Spiking Neural Network on FPGA.
+### Robotic Project
+[IoT Smart Monitoring](https://github.com/username/project2)
 
-### 🔭 What I'm working on:
-- IoT-based smart monitoring systems
-- Robotics automation projects
-- Machine learning applications for engineering solutions
-- IC design implementations
+### Robotic Project
+[IoT Smart Monitoring](https://github.com/username/project2)
 
+### AI Automation Project
+[IoT Smart Monitoring](https://github.com/username/project2)
 ---
 
 ## 🤝 Let's Connect!
