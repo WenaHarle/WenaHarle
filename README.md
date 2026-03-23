@@ -160,9 +160,6 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 </div>
 
 ---
-
-## 🌟 Featured Projects
-
 ## 🌟 Featured Projects
 
 ### 🔥 [CNN Image Classifier](https://github.com/username/project1)
