@@ -78,7 +78,7 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 ---
 ## 🌟 Featured Projects
 
-### CV Project
+### ML Project
 - [Background Subtraction](https://github.com/WenaHarle/Background-Substraction)
 - [Fruit Counter](https://github.com/WenaHarle/Fruit-Counter-Module)
 
