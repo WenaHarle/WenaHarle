@@ -100,6 +100,7 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 ### Learning Module
 - [ROS 2 Bahasa Tutorial](https://github.com/WenaHarle/ROS2_GUIDE)
 - [FPGA Example Code](https://github.com/WenaHarle/FPGA_LEARNING)
+- [Brawijaya Robotic Basic](https://github.com/WenaHarle/RPP_Brawijaya-Robotic)
 ---
 
 ## 🤝 Let's Connect!
