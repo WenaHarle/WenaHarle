@@ -162,16 +162,16 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 - [CNN Image Classifier](https://github.com/username/project1)
 
 ### IoT Project
-[IoT Smart Monitoring](https://github.com/username/project2)
+- [IoT Smart Monitoring](https://github.com/username/project2)
 
 ### Robotic Project
-[IoT Smart Monitoring](https://github.com/username/project2)
-
-### Robotic Project
-[IoT Smart Monitoring](https://github.com/username/project2)
+- [IoT Smart Monitoring](https://github.com/username/project2)
 
 ### AI Automation Project
-[IoT Smart Monitoring](https://github.com/username/project2)
+- [IoT Smart Monitoring](https://github.com/username/project2)
+
+### Learning Module
+- [IoT Smart Monitoring](https://github.com/username/project2)
 ---
 
 ## 🤝 Let's Connect!
