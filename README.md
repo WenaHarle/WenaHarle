@@ -82,20 +82,23 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 - [Background Subtraction](https://github.com/WenaHarle/Background-Substraction)
 
 ### IoT Project
-- [IoT Smart Monitoring](https://github.com/username/project2)
+- [Django API](https://github.com/WenaHarle/IoT_Padi)
 
 ### Robotic Project
 - [IoT Smart Monitoring](https://github.com/username/project2)
 
 ### AI Automation Project
 - [IoT Smart Monitoring](https://github.com/username/project2)
+- 
 
 ### Other Project
 - [Snake Game in C](https://github.com/WenaHarle/Game-Snake)
-- 
+- [Background Subtraction](https://github.com/WenaHarle/Background-Substraction)
+- [Fruit Counting](https://github.com/WenaHarle/Fruit-Counter-Module)
 
 ### Learning Module
-- [IoT Smart Monitoring](https://github.com/username/project2)
+- 
+- 
 ---
 
 ## 🤝 Let's Connect!
