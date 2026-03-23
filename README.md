@@ -54,15 +54,11 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 
 ---
 
-<details>
-<summary><b>🧰 Other Tools & Technologies</b></summary>
+### 🧰 Other Tools & Technologies
 
 - JavaScript, HTML/CSS  
 - Firebase, MySQL, InfluxDB  
-- ROS2, Gazebo  
-- Flutter, Arduino  
-
-</details>
+- ROS2, Gazebo, Pybullet  
 
 ---
 
