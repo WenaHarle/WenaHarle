@@ -163,7 +163,16 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 
 ## 🌟 Featured Projects
 
-> 🚧 **Coming Soon!** I'm currently working on some exciting projects that will be showcased here. Stay tuned!
+## 🌟 Featured Projects
+
+### 🔥 [CNN Image Classifier](https://github.com/username/project1)
+Deep learning model for image classification using PyTorch.
+
+### 🤖 [IoT Smart Monitoring](https://github.com/username/project2)
+Real-time sensor monitoring system using ESP32.
+
+### ⚡ [FPGA SNN EKG Classifier](https://github.com/username/project3)
+Low-power ECG classification using Spiking Neural Network on FPGA.
 
 ### 🔭 What I'm working on:
 - IoT-based smart monitoring systems
