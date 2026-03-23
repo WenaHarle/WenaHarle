@@ -80,7 +80,6 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 
 ### ML Project
 - [Background Subtraction](https://github.com/WenaHarle/Background-Substraction)
-- [Fruit Counter](https://github.com/WenaHarle/Fruit-Counter-Module)
 
 ### IoT Project
 - [IoT Smart Monitoring](https://github.com/username/project2)
@@ -90,6 +89,10 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 
 ### AI Automation Project
 - [IoT Smart Monitoring](https://github.com/username/project2)
+
+### Other Project
+- [Background Subtraction](https://github.com/WenaHarle/Background-Substraction)
+- [Fruit Counter](https://github.com/WenaHarle/Fruit-Counter-Module)
 
 ### Learning Module
 - [IoT Smart Monitoring](https://github.com/username/project2)
