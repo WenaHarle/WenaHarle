@@ -91,7 +91,7 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 - [IoT Smart Monitoring](https://github.com/username/project2)
 
 ### Other Project
-- [Snake Game in C](https://github.com/WenaHarle/Game-Snake))
+- [Snake Game in C](https://github.com/WenaHarle/Game-Snake)
 - 
 
 ### Learning Module
