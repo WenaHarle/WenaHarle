@@ -79,7 +79,8 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 ## 🌟 Featured Projects
 
 ### CV Project
-- [CNN Image Classifier](https://github.com/username/project1)
+- [Background Subtraction](https://github.com/WenaHarle/Background-Substraction)
+- [Fruit Counter](https://github.com/WenaHarle/Fruit-Counter-Module)
 
 ### IoT Project
 - [IoT Smart Monitoring](https://github.com/username/project2)
