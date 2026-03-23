@@ -17,9 +17,9 @@
 I'm a passionate **Electrical Engineering Student** with a strong focus on cutting-edge technology and innovation. Currently contributing to the tech community through multiple roles and always eager to learn and build something amazing!
 
 ### 🎯 Current Roles
-- 💼 **Developer** at Brawijaya Robotics
-- 🔬 **Student Coordinator** at DIICES Research Group
-- 🤖 **Student Coordinator** at UB AI Center
+- 💼 **EX Software Developer** at Brawijaya Robotics
+- 🔬 **EX Student Coordinator** at DIICES Research Group
+- 🤖 **EX Student Coordinator** at UB AI Center
 
 ### 🔭 Areas of Expertise
 - **Internet of Things (IoT)** - Connected devices and smart systems
