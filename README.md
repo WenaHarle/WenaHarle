@@ -79,7 +79,7 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 ## 🌟 Featured Projects
 
 ### ML Project
-- [Background Subtraction](https://github.com/WenaHarle/Background-Substraction)
+- [License Plate Recog](https://github.com/WenaHarle/UB_Gate)
 
 ### IoT Project
 - [Django API](https://github.com/WenaHarle/IoT_Padi)
@@ -95,6 +95,7 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 - [Snake Game in C](https://github.com/WenaHarle/Game-Snake)
 - [Background Subtraction](https://github.com/WenaHarle/Background-Substraction)
 - [Fruit Counting](https://github.com/WenaHarle/Fruit-Counter-Module)
+- [Audio Fingerprint](https://github.com/WenaHarle/Audio_FP)
 
 ### Learning Module
 - 
