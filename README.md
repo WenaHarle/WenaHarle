@@ -79,7 +79,9 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 ## 🌟 Featured Projects
 
 ### ML Project
+- [Basic Image Clasifier](https://github.com/WenaHarle/pytorch-image-classifier)
 - [License Plate Recog](https://github.com/WenaHarle/UB_Gate)
+
 
 ### IoT Project
 - [Django API](https://github.com/WenaHarle/IoT_Padi)
@@ -98,6 +100,7 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 - [FPGA Example Code](https://github.com/WenaHarle/FPGA_LEARNING)
 - [Brawijaya Robotic Basic](https://github.com/WenaHarle/RPP_Brawijaya-Robotic)
 - [Basic Ngspice](https://github.com/WenaHarle/NGSpice_Learning/wiki)
+- [Basic OpenCV](https://github.com/WenaHarle/vision-image-analysis-opencv)
 ---
 
 ## 🤝 Let's Connect!
