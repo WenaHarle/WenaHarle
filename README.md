@@ -85,11 +85,7 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 - [Django API](https://github.com/WenaHarle/IoT_Padi)
 
 ### Robotic Project
-- [IoT Smart Monitoring](https://github.com/username/project2)
-
-### AI Automation Project
-- [IoT Smart Monitoring](https://github.com/username/project2)
-- 
+- [Humanoid Robot Simulation](https://github.com/WenaHarle/Simulation_22)
 
 ### Other Project
 - [Snake Game in C](https://github.com/WenaHarle/Game-Snake)
