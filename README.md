@@ -84,6 +84,7 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 
 ### IoT Project
 - [Django API](https://github.com/WenaHarle/IoT_Padi)
+- [AsuraCore](https://github.com/WenaHarle/Asuracore)
 
 ### Robotic Project
 - [Humanoid Robot Simulation](https://github.com/WenaHarle/Simulation_22)
