@@ -82,12 +82,18 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 - [Basic Image Clasifier](https://github.com/WenaHarle/pytorch-image-classifier)
 - [License Plate Recog](https://github.com/WenaHarle/UB_Gate)
 
-
 ### IoT Project
 - [Django API](https://github.com/WenaHarle/IoT_Padi)
 
 ### Robotic Project
 - [Humanoid Robot Simulation](https://github.com/WenaHarle/Simulation_22)
+
+### FPGA Project
+- [SaD 3bit Multiplier](https://github.com/WenaHarle/Shift_and_Add_3bit_Mutiplier)
+- [ROM Base 4 Bit Multiplier](https://github.com/WenaHarle/4-Bit-Shift-and-Add-Binary-Multiplier-Using-ROM)
+- [Intel 4004 Vhdl](https://github.com/WenaHarle/simple_intel_4004_vhdl)
+- [SNN For FPGA](https://github.com/WenaHarle/SNN4FPGA)
+
 
 ### Other Project
 - [Snake Game in C](https://github.com/WenaHarle/Game-Snake)
