@@ -12,70 +12,12 @@
 
 ---
 
-## 🚀 About Me
+ 🚀 About Me
 
-I'm a passionate **Electrical Engineering Student** with a strong focus on cutting-edge technology and innovation. Currently contributing to the tech community through multiple roles and always eager to learn and build something amazing!
-
-### 🎯 Current Roles
-- 💼 **EX Software Developer** at Brawijaya Robotics
-- 🔬 **EX Student Coordinator** at DIICES Research Group
-- 🤖 **EX Student Coordinator** at UB AI Center
-
-### 🔭 Areas of Expertise
-- **Internet of Things (IoT)** - Connected devices and smart systems
-- **Robotics** - Autonomous systems and control
-- **Machine Learning** - AI-driven solutions
-- **IC Design** - Hardware-level innovation
+I'm a passionate **Electrical## Engineering Student** with a strong focus on cutting-edge technology and innovation. Currently contributing to the tech community through multiple roles and always eager to learn and build something amazing!
 
 ---
 
-## 💻 Tech Stack
-
-### ⚡ Core Expertise
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
----
-
-### 🧠 Systems & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### ⚡ Hardware & Embedded
-![FPGA Zynq](https://img.shields.io/badge/FPGA%20Zynq-E60012?style=for-the-badge&logo=xilinx&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-EE4C2C?style=for-the-badge&logo=verilog&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-
----
-
-### 🧰 Other Tools & Technologies
-
-- JavaScript, HTML/CSS  
-- Firebase, MySQL, InfluxDB  
-- ROS2, Gazebo, Pybullet  
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=WenaHarle&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WenaHarle&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=WenaHarle&theme=tokyonight&hide_border=true" width="60%"/>
-</div>
-
----
 ## 🌟 Featured Projects
 
 ### ML Project
