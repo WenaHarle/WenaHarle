@@ -1,18 +1,4 @@
-# Hi there, I'm Made Wena Harilegawa! 👋
-
-<div align="center">
-  <img src="https://github.com/WenaHarle/WenaHarle/blob/main/Untitled-1.png" alt="Profile Banner" width="100%">
-  
-  <h3>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Electrical+Engineering+Student;IoT+%26+Robotics+Enthusiast;Machine+Learning+Developer;Innovation+Through+Technology" alt="Typing SVG">
-    </a>
-  </h3>
-</div>
-
----
-
- 🚀 About Me
+🚀 About Me
 
 I'm a passionate **Electrical## Engineering Student** with a strong focus on cutting-edge technology and innovation. Currently contributing to the tech community through multiple roles and always eager to learn and build something amazing!
 
