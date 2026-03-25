@@ -1,6 +1,6 @@
 🚀 About Me
 
-I'm a passionate **Electrical## Engineering Student** with a strong focus on cutting-edge technology and innovation. Currently contributing to the tech community through multiple roles and always eager to learn and build something amazing!
+I'm a passionate **Electrical Engineering Student** with a strong focus on cutting-edge technology and innovation. Currently contributing to the tech community through multiple roles and always eager to learn and build something amazing!
 
 ---
 
