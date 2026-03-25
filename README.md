@@ -36,6 +36,7 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 - [Brawijaya Robotic Basic](https://github.com/WenaHarle/RPP_Brawijaya-Robotic)
 - [Basic Ngspice](https://github.com/WenaHarle/NGSpice_Learning/wiki)
 - [Basic OpenCV](https://github.com/WenaHarle/vision-image-analysis-opencv)
+- [ESP-IDF Tutorial Bahasa](https://github.com/WenaHarle/espidf-tutorial-bahasa)
 ---
 
 ## 🤝 Let's Connect!
