@@ -20,7 +20,7 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 ### FPGA Project
 - [SaD 3bit Multiplier](https://github.com/WenaHarle/Shift_and_Add_3bit_Mutiplier)
 - [ROM Base 4 Bit Multiplier](https://github.com/WenaHarle/4-Bit-Shift-and-Add-Binary-Multiplier-Using-ROM)
-- [Intel 4004 Vhdl](https://github.com/WenaHarle/simple_intel_4004_vhdl)
+- [Basic Intel 4004 Vhdl](https://github.com/WenaHarle/simple_intel_4004_vhdl)
 - [SNN For FPGA](https://github.com/WenaHarle/SNN4FPGA)
 
 
