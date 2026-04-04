@@ -15,7 +15,7 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 - [AsuraCore](https://github.com/WenaHarle/Asuracore)
 - [ESP32 IoT IDS](https://github.com/WenaHarle/iot-wireless-ids-esp32)
 
-### Robotic Project
+### Robotic Project (Sorry Most The Repo Can't be Shared :) )
 - [Humanoid Robot Simulation](https://github.com/WenaHarle/Simulation_22)
 
 ### FPGA Project
