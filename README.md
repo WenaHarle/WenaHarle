@@ -13,6 +13,7 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 ### IoT Project
 - [Django API](https://github.com/WenaHarle/IoT_Padi)
 - [AsuraCore](https://github.com/WenaHarle/Asuracore)
+- [ESP32 IoT IDS](https://github.com/WenaHarle/iot-wireless-ids-esp32)
 
 ### Robotic Project
 - [Humanoid Robot Simulation](https://github.com/WenaHarle/Simulation_22)
@@ -29,6 +30,7 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 - [Background Subtraction](https://github.com/WenaHarle/Background-Substraction)
 - [Fruit Counting](https://github.com/WenaHarle/Fruit-Counter-Module)
 - [Audio Fingerprint](https://github.com/WenaHarle/Audio_FP)
+- [Sign Language Detection Raspi](https://github.com/WenaHarle/sign_language_detection_raspberry)
 
 ### Learning Module
 - [ROS 2 Bahasa Tutorial](https://github.com/WenaHarle/ROS2_GUIDE)
