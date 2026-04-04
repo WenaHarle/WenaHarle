@@ -1,66 +1,77 @@
-# About Me
+# Made Wena Harilegawa
 
-I'm a passionate **Electrical Engineering Student** with a strong focus on cutting-edge technology and innovation. Currently contributing to the tech community through multiple roles and always eager to learn and build something amazing!
-
----
-
-## Featured Projects
-
-### ML Project
-- [Basic Image Clasifier](https://github.com/WenaHarle/pytorch-image-classifier)
-- [License Plate Recog](https://github.com/WenaHarle/UB_Gate)
-
-### IoT Project
-- [Django API](https://github.com/WenaHarle/IoT_Padi)
-- [AsuraCore](https://github.com/WenaHarle/Asuracore)
-- [ESP32 IoT IDS](https://github.com/WenaHarle/iot-wireless-ids-esp32)
-
-### Robotic Project (Sorry, most of the repo can't be shared :) )
-- [Humanoid Robot Simulation](https://github.com/WenaHarle/Simulation_22)
-
-### FPGA Project
-- [SaD 3bit Multiplier](https://github.com/WenaHarle/Shift_and_Add_3bit_Mutiplier)
-- [ROM Base 4 Bit Multiplier](https://github.com/WenaHarle/4-Bit-Shift-and-Add-Binary-Multiplier-Using-ROM)
-- [Basic Intel 4004 Vhdl](https://github.com/WenaHarle/simple_intel_4004_vhdl)
-- [SNN For FPGA](https://github.com/WenaHarle/SNN4FPGA)
-
-
-### Other Project
-- [Snake Game in C](https://github.com/WenaHarle/Game-Snake)
-- [Background Subtraction](https://github.com/WenaHarle/Background-Substraction)
-- [Fruit Counting](https://github.com/WenaHarle/Fruit-Counter-Module)
-- [Audio Fingerprint](https://github.com/WenaHarle/Audio_FP)
-- [Sign Language Detection Raspi](https://github.com/WenaHarle/sign_language_detection_raspberry)
-
-### Learning Module
-- [ROS 2 Bahasa Tutorial](https://github.com/WenaHarle/ROS2_GUIDE)
-- [FPGA Example Code](https://github.com/WenaHarle/FPGA_LEARNING)
-- [Brawijaya Robotic Basic](https://github.com/WenaHarle/RPP_Brawijaya-Robotic)
-- [Basic Ngspice](https://github.com/WenaHarle/NGSpice_Learning/wiki)
-- [Basic OpenCV](https://github.com/WenaHarle/vision-image-analysis-opencv)
-- [ESP-IDF Tutorial Bahasa](https://github.com/WenaHarle/espidf-tutorial-bahasa)
----
-
-## Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/made-wena-harilegawa)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mwharlew)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mw.harilegawa)
-
-</div>
+Electrical Engineering Student focused on IoT systems, machine learning, and low-level computing.
+I build end-to-end systems that integrate embedded devices, data pipelines, and intelligent models.
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=WenaHarle&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views">
-</div>
+## Core Focus
 
-<div align="center">
-  
-*"Innovation distinguishes between a leader and a follower."* - Steve Jobs
+* IoT security systems and wireless monitoring (ESP32, network analysis, IDS)
+* Machine learning for real-world applications (computer vision, signal processing)
+* FPGA and embedded system design
+* Backend systems for data ingestion, processing, and visualization
 
-**Thanks for visiting! Feel free to reach out if you'd like to collaborate on exciting projects!**
+---
 
-</div>
+## Selected Projects
+
+### IoT and Security Systems
+
+* [IoT Wireless IDS (ESP32)](https://github.com/WenaHarle/iot-wireless-ids-esp32) — real-time wireless intrusion detection using edge devices
+* [IoT Padi Monitoring (Django API)](https://github.com/WenaHarle/IoT_Padi) — full-stack IoT system for agricultural monitoring
+* [AsuraCore](https://github.com/WenaHarle/Asuracore) — modular IoT system for scalable device integration
+
+### Machine Learning
+
+* [License Plate Recognition](https://github.com/WenaHarle/UB_Gate) — computer vision pipeline for detection and recognition
+* [PyTorch Image Classifier](https://github.com/WenaHarle/pytorch-image-classifier) — CNN training and evaluation pipeline
+* [Audio Fingerprinting](https://github.com/WenaHarle/Audio_FP) — signal-based audio matching system
+
+### FPGA and Systems
+
+* [SNN on FPGA](https://github.com/WenaHarle/SNN4FPGA) — spiking neural network on hardware
+* [Shift and Add Multiplier](https://github.com/WenaHarle/Shift_and_Add_3bit_Mutiplier)
+* [Intel 4004 (VHDL)](https://github.com/WenaHarle/simple_intel_4004_vhdl)
+
+### Robotics and Embedded
+
+* [Humanoid Robot Simulation](https://github.com/WenaHarle/Simulation_22)
+* [Sign Language Detection (Raspberry Pi)](https://github.com/WenaHarle/sign_language_detection_raspberry)
+
+---
+
+## Technical Stack
+
+**Languages:** Python, C/C++, Go, VHDL
+**ML/AI:** PyTorch, OpenCV, Scikit-learn
+**IoT/Embedded:** ESP32, ESP-IDF, MQTT, Raspberry Pi
+**Backend:** FastAPI, Django, PostgreSQL, Redis
+**Hardware:** FPGA (Vivado), Digital Design
+
+---
+
+## Documentation
+
+* [ROS 2 Guide](https://github.com/WenaHarle/ROS2_GUIDE)
+* [FPGA Learning](https://github.com/WenaHarle/FPGA_LEARNING)
+* [ESP-IDF Tutorial](https://github.com/WenaHarle/espidf-tutorial-bahasa)
+* [OpenCV Learning](https://github.com/WenaHarle/vision-image-analysis-opencv)
+
+---
+
+## Current Focus
+
+* IoT intrusion detection (edge + cloud architecture)
+* Quantitative systems and data engineering
+* Scalable AI system design
+
+---
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/made-wena-harilegawa) • [Twitter](https://twitter.com/mwharlew) • [Instagram](https://instagram.com/mw.harilegawa)
+
+---
+
+Build systems, not just projects.
