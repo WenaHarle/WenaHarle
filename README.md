@@ -14,13 +14,31 @@ I build end-to-end systems that integrate embedded devices, data pipelines, and 
 
 ---
 
+## Flagship Project
+
+### AsuraCore — IoT Device Management Platform
+
+[Repository](https://github.com/WenaHarle/Asuracore)
+
+A modular IoT platform similar to Blynk, designed for scalable device communication, monitoring, and control.
+
+**Key Features:**
+
+* Real-time device communication using MQTT/WebSocket
+* Device telemetry collection and remote control
+* Backend API for device and user management
+* Scalable architecture for multi-device integration
+
+**Focus:** System design, IoT architecture, backend engineering
+
+---
+
 ## Selected Projects
 
 ### IoT and Security Systems
 
 * [IoT Wireless IDS (ESP32)](https://github.com/WenaHarle/iot-wireless-ids-esp32) — real-time wireless intrusion detection using edge devices
-* [IoT Padi Monitoring (Django API)](https://github.com/WenaHarle/IoT_Padi) — full-stack IoT system for agricultural monitoring
-* [AsuraCore](https://github.com/WenaHarle/Asuracore) — modular IoT system for scalable device integration
+* [IoT Padi Monitoring (Django API)](https://github.com/WenaHarle/IoT_Padi) — backend IoT system for agricultural monitoring
 
 ### Machine Learning
 
