@@ -4,7 +4,7 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### ML Project
 - [Basic Image Clasifier](https://github.com/WenaHarle/pytorch-image-classifier)
@@ -15,7 +15,7 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 - [AsuraCore](https://github.com/WenaHarle/Asuracore)
 - [ESP32 IoT IDS](https://github.com/WenaHarle/iot-wireless-ids-esp32)
 
-### Robotic Project (Sorry Most The Repo Can't be Shared :) )
+### Robotic Project (Sorry, most of the repo can't be shared :) )
 - [Humanoid Robot Simulation](https://github.com/WenaHarle/Simulation_22)
 
 ### FPGA Project
@@ -41,7 +41,7 @@ I'm a passionate **Electrical Engineering Student** with a strong focus on cutti
 - [ESP-IDF Tutorial Bahasa](https://github.com/WenaHarle/espidf-tutorial-bahasa)
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <div align="center">
   
