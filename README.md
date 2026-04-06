@@ -61,11 +61,11 @@ A modular IoT platform similar to Blynk, designed for scalable device communicat
 
 ## Technical Stack
 
-**Languages:** Python, C/C++, Go, VHDL
-**ML/AI:** PyTorch, OpenCV, Scikit-learn
-**IoT/Embedded:** ESP32, ESP-IDF, MQTT, Raspberry Pi
-**Backend:** FastAPI, Django, PostgreSQL, Redis
-**Hardware:** FPGA (Vivado), Digital Design
+- **Languages:** Python, C/C++, Go, VHDL
+- **ML/AI:** PyTorch, OpenCV, Scikit-learn
+- **IoT/Embedded:** ESP32, ESP-IDF, MQTT, Raspberry Pi
+- **Backend:** FastAPI, Django, MariaDB, InfluxDB
+- **Hardware:** FPGA (Vivado), Digital Design
 
 ---
 
