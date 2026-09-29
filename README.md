@@ -1,16 +1,16 @@
 # Made Wena Harilegawa
 
-Electrical Engineering Student focused on IoT systems, machine learning, and low-level computing.
-I build end-to-end systems that integrate embedded devices, data pipelines, and intelligent models.
+Electrical Engineering student focused on **firmware and embedded systems**.
+I write low-level code for microcontrollers and FPGAs, and build the IoT systems around them.
 
 ---
 
-## Core Focus
+## Focus Areas
 
-* IoT security systems and wireless monitoring (ESP32, network analysis, IDS)
-* Machine learning for real-world applications (computer vision, signal processing)
-* FPGA and embedded system design
-* Backend systems for data ingestion, processing, and visualization
+* Firmware development (ESP32 / ESP-IDF, C/C++)
+* Embedded and IoT systems (MQTT, wireless, device management)
+* FPGA and digital design (VHDL, Vivado)
+* Robotics and edge computing (Raspberry Pi, ROS 2)
 
 ---
 
@@ -20,40 +20,33 @@ I build end-to-end systems that integrate embedded devices, data pipelines, and 
 
 [Repository](https://github.com/WenaHarle/Asuracore)
 
-A modular IoT platform similar to Blynk, designed for scalable device communication, monitoring, and control.
+A modular IoT platform for device communication, monitoring, and control.
 
-**Key Features:**
-
-* Real-time device communication using MQTT/WebSocket
+* Real-time device communication over MQTT/WebSocket
 * Device telemetry collection and remote control
 * Backend API for device and user management
-* Scalable architecture for multi-device integration
-
-**Focus:** System design, IoT architecture, backend engineering
 
 ---
 
-## Selected Projects
+## Projects
 
-### IoT and Security Systems
+### Firmware
 
-* [IoT Wireless IDS (ESP32)](https://github.com/WenaHarle/iot-wireless-ids-esp32) — real-time wireless intrusion detection using edge devices
-* [IoT Padi Monitoring (Django API)](https://github.com/WenaHarle/IoT_Padi) — backend IoT system for agricultural monitoring
+* [Self-Healing Firmware](https://github.com/WenaHarle/Self_Healing_Firmware)
+* [ESP HID](https://github.com/WenaHarle/ESP_HID)
+* [Zephyr Indonesia](https://github.com/WenaHarle/Zephyr_Indonesia)
+* [IoT Padi Monitoring](https://github.com/WenaHarle/IoT_Padi)
 
-### Machine Learning
+### FPGA and Digital Design
 
-* [License Plate Recognition](https://github.com/WenaHarle/UB_Gate) — computer vision pipeline for detection and recognition
-* [PyTorch Image Classifier](https://github.com/WenaHarle/pytorch-image-classifier) — CNN training and evaluation pipeline
-* [Audio Fingerprinting](https://github.com/WenaHarle/Audio_FP) — signal-based audio matching system
-
-### FPGA and Systems
-
-* [SNN on FPGA](https://github.com/WenaHarle/SNN4FPGA) — spiking neural network on hardware
-* [Shift and Add Multiplier](https://github.com/WenaHarle/Shift_and_Add_3bit_Mutiplier)
+* [SNN on FPGA](https://github.com/WenaHarle/SNN4FPGA) — spiking neural network in hardware
 * [Intel 4004 (VHDL)](https://github.com/WenaHarle/simple_intel_4004_vhdl)
+* [Shift and Add 3-bit Multiplier](https://github.com/WenaHarle/Shift_and_Add_3bit_Mutiplier)
+* [4-Bit Shift and Add Multiplier (ROM)](https://github.com/WenaHarle/4-Bit-Shift-and-Add-Binary-Multiplier-Using-ROM)
 
-### Robotics and Embedded
+### Robotics and Edge
 
+* [Quadpod Robot](https://github.com/WenaHarle/quadpod-robot)
 * [Humanoid Robot Simulation](https://github.com/WenaHarle/Simulation_22)
 * [Sign Language Detection (Raspberry Pi)](https://github.com/WenaHarle/sign_language_detection_raspberry)
 
@@ -61,35 +54,22 @@ A modular IoT platform similar to Blynk, designed for scalable device communicat
 
 ## Technical Stack
 
-- **Languages:** Python, C/C++, Go, VHDL
-- **ML/AI:** PyTorch, OpenCV, Scikit-learn
-- **IoT/Embedded:** ESP32, ESP-IDF, MQTT, Raspberry Pi
-- **Backend:** FastAPI, Django, MariaDB, InfluxDB
-- **Hardware:** FPGA (Vivado), Digital Design
+* **Languages:** C/C++, Python, VHDL, Go
+* **Firmware:** ESP32, ESP-IDF, Zephyr, FreeRTOS
+* **Protocols:** MQTT, WebSocket, HID, Wi-Fi, BLE
+* **Hardware:** FPGA (Vivado), Raspberry Pi, digital design, NGSpice
+* **Backend (supporting):** FastAPI, Django, InfluxDB
 
 ---
 
-## Documentation
+## Learning Resources
 
-* [ROS 2 Guide](https://github.com/WenaHarle/ROS2_GUIDE)
+* [ESP-IDF Tutorial (Bahasa)](https://github.com/WenaHarle/espidf-tutorial-bahasa)
 * [FPGA Learning](https://github.com/WenaHarle/FPGA_LEARNING)
-* [ESP-IDF Tutorial](https://github.com/WenaHarle/espidf-tutorial-bahasa)
-* [OpenCV Learning](https://github.com/WenaHarle/vision-image-analysis-opencv)
-
----
-
-## Current Focus
-
-* IoT intrusion detection (edge + cloud architecture)
-* Quantitative systems and data engineering
-* Scalable AI system design
+* [ROS 2 Guide](https://github.com/WenaHarle/ROS2_GUIDE)
 
 ---
 
 ## Contact
 
 [LinkedIn](https://linkedin.com/in/made-wena-harilegawa) • [Twitter](https://twitter.com/mwharlew) • [Instagram](https://instagram.com/mw.harilegawa)
-
----
-
-Build systems, not just projects.
