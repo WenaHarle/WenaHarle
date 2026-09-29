@@ -1,74 +1,85 @@
+<div align="center">
+
+<img src="banner.webp" alt="Made Wena Harilegawa" width="100%" />
+
 # Made Wena Harilegawa
 
-Electrical Engineering student focused on **firmware and embedded systems**.
+**Firmware & Embedded Systems Engineer** · Electrical Engineering Student
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/Zephyr_RTOS-7B42BC?style=for-the-badge&logo=zephyrproject&logoColor=white" />
+<img src="https://img.shields.io/badge/FPGA-0A66C2?style=for-the-badge&logo=xilinx&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+
+</div>
+
+---
+
+## ⚡ About
+
 I write low-level code for microcontrollers and FPGAs, and build the IoT systems around them.
 
----
-
-## Focus Areas
-
-* Firmware development (ESP32 / ESP-IDF, C/C++)
-* Embedded and IoT systems (MQTT, wireless, device management)
-* FPGA and digital design (VHDL, Vivado)
-* Robotics and edge computing (Raspberry Pi, ROS 2)
+- 🔧 Firmware on ESP32 (ESP-IDF) and Zephyr
+- 🔌 Digital design in VHDL, synthesized with Vivado
+- 🤖 Robotics and edge computing on Raspberry Pi and ROS 2
+- 📡 IoT device management over MQTT and WebSocket
 
 ---
 
-## Flagship Project
+## 🚀 Flagship
 
-### AsuraCore — IoT Device Management Platform
-
-[Repository](https://github.com/WenaHarle/Asuracore)
+### [AsuraCore](https://github.com/WenaHarle/Asuracore) — IoT Device Management Platform
 
 A modular IoT platform for device communication, monitoring, and control.
 
-* Real-time device communication over MQTT/WebSocket
-* Device telemetry collection and remote control
-* Backend API for device and user management
+`MQTT` · `WebSocket` · `Telemetry` · `Remote control` · `Device API`
 
 ---
 
-## Projects
+## 🛠️ Projects
 
-### Firmware
-
-* [Self-Healing Firmware](https://github.com/WenaHarle/Self_Healing_Firmware)
-* [ESP HID](https://github.com/WenaHarle/ESP_HID)
-* [Zephyr Indonesia](https://github.com/WenaHarle/Zephyr_Indonesia)
-
-### FPGA and Digital Design
-
-* [SNN on FPGA](https://github.com/WenaHarle/SNN4FPGA) — spiking neural network in hardware
-* [Intel 4004 (VHDL)](https://github.com/WenaHarle/simple_intel_4004_vhdl)
-* [Shift and Add 3-bit Multiplier](https://github.com/WenaHarle/Shift_and_Add_3bit_Mutiplier)
-* [4-Bit Shift and Add Multiplier (ROM)](https://github.com/WenaHarle/4-Bit-Shift-and-Add-Binary-Multiplier-Using-ROM)
-
-### Robotics and Edge
-
-* [Quadpod Robot](https://github.com/WenaHarle/quadpod-robot)
-* [Humanoid Robot Simulation](https://github.com/WenaHarle/Simulation_22)
-* [Sign Language Detection (Raspberry Pi)](https://github.com/WenaHarle/sign_language_detection_raspberry)
+| | Project | What it is |
+|---|---|---|
+| 🔩 | [Self-Healing Firmware](https://github.com/WenaHarle/Self_Healing_Firmware) | Firmware that detects faults and recovers on its own |
+| ⌨️ | [ESP HID](https://github.com/WenaHarle/ESP_HID) | Human interface device on ESP32 |
+| 🌀 | [Zephyr Indonesia](https://github.com/WenaHarle/Zephyr_Indonesia) | Zephyr RTOS work and resources |
+| 🧠 | [SNN on FPGA](https://github.com/WenaHarle/SNN4FPGA) | Spiking neural network in hardware |
+| 💾 | [Intel 4004 (VHDL)](https://github.com/WenaHarle/simple_intel_4004_vhdl) | Simple 4004 CPU in VHDL |
+| ✖️ | [3-bit Shift and Add Multiplier](https://github.com/WenaHarle/Shift_and_Add_3bit_Mutiplier) | Sequential multiplier design |
+| ✖️ | [4-bit Multiplier (ROM)](https://github.com/WenaHarle/4-Bit-Shift-and-Add-Binary-Multiplier-Using-ROM) | Shift and add multiplier using ROM |
+| 🐾 | [Quadpod Robot](https://github.com/WenaHarle/quadpod-robot) | Four-legged walking robot |
+| 🦾 | [Humanoid Simulation](https://github.com/WenaHarle/Simulation_22) | Humanoid robot simulation |
+| 🖐️ | [Sign Language Detection](https://github.com/WenaHarle/sign_language_detection_raspberry) | Edge inference on Raspberry Pi |
 
 ---
 
-## Technical Stack
+## 🧰 Tech Stack
 
-* **Languages:** C/C++, Python, VHDL, Go
-* **Firmware:** ESP32, ESP-IDF, Zephyr, FreeRTOS
-* **Protocols:** MQTT, WebSocket, HID, Wi-Fi, BLE
-* **Hardware:** FPGA (Vivado), Raspberry Pi, digital design, NGSpice
-* **Backend (supporting):** FastAPI, Django, InfluxDB
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=c,cpp,python,go,raspberrypi,arduino,linux,git,vscode&perline=9" />
 
-## Learning Resources
+</div>
 
-* [ESP-IDF Tutorial (Bahasa)](https://github.com/WenaHarle/espidf-tutorial-bahasa)
-* [FPGA Learning](https://github.com/WenaHarle/FPGA_LEARNING)
-* [ROS 2 Guide](https://github.com/WenaHarle/ROS2_GUIDE)
+- **Firmware:** ESP32, ESP-IDF, Zephyr, FreeRTOS
+- **Hardware:** FPGA (Vivado), VHDL, NGSpice, digital design
+- **Protocols:** MQTT, WebSocket, HID, Wi-Fi, BLE
+- **Backend (supporting):** FastAPI, Django, InfluxDB
 
 ---
 
-## Contact
+## 📚 Learning Resources
 
-[LinkedIn](https://linkedin.com/in/made-wena-harilegawa) • [Twitter](https://twitter.com/mwharlew) • [Instagram](https://instagram.com/mw.harilegawa)
+- [ESP-IDF Tutorial (Bahasa)](https://github.com/WenaHarle/espidf-tutorial-bahasa)
+- [FPGA Learning](https://github.com/WenaHarle/FPGA_LEARNING)
+- [ROS 2 Guide](https://github.com/WenaHarle/ROS2_GUIDE)
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/made-wena-harilegawa)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mwharlew)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mw.harilegawa)
+
+</div>
