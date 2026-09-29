@@ -35,7 +35,6 @@ A modular IoT platform for device communication, monitoring, and control.
 * [Self-Healing Firmware](https://github.com/WenaHarle/Self_Healing_Firmware)
 * [ESP HID](https://github.com/WenaHarle/ESP_HID)
 * [Zephyr Indonesia](https://github.com/WenaHarle/Zephyr_Indonesia)
-* [IoT Padi Monitoring](https://github.com/WenaHarle/IoT_Padi)
 
 ### FPGA and Digital Design
 
