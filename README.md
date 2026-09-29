@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.webp" alt="Made Wena Harilegawa" width="100%" />
+<img src="banner.png" alt="Made Wena Harilegawa" width="100%" />
 
 # Made Wena Harilegawa
 
@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/Zephyr_RTOS-7B42BC?style=for-the-badge&logo=zephyrproject&logoColor=white" />
 <img src="https://img.shields.io/badge/FPGA-0A66C2?style=for-the-badge&logo=xilinx&logoColor=white" />
 <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
 
 </div>
 
