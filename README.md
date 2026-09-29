@@ -1,95 +1,85 @@
+<div align="center">
+
+<img src="banner.webp" alt="Made Wena Harilegawa" width="100%" />
+
 # Made Wena Harilegawa
 
-Electrical Engineering Student focused on IoT systems, machine learning, and low-level computing.
-I build end-to-end systems that integrate embedded devices, data pipelines, and intelligent models.
+**Firmware & Embedded Systems Engineer** · Electrical Engineering Student
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/Zephyr_RTOS-7B42BC?style=for-the-badge&logo=zephyrproject&logoColor=white" />
+<img src="https://img.shields.io/badge/FPGA-0A66C2?style=for-the-badge&logo=xilinx&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+
+</div>
 
 ---
 
-## Core Focus
+## ⚡ About
 
-* IoT security systems and wireless monitoring (ESP32, network analysis, IDS)
-* Machine learning for real-world applications (computer vision, signal processing)
-* FPGA and embedded system design
-* Backend systems for data ingestion, processing, and visualization
+I write low-level code for microcontrollers and FPGAs, and build the IoT systems around them.
 
----
-
-## Flagship Project
-
-### AsuraCore — IoT Device Management Platform
-
-[Repository](https://github.com/WenaHarle/Asuracore)
-
-A modular IoT platform similar to Blynk, designed for scalable device communication, monitoring, and control.
-
-**Key Features:**
-
-* Real-time device communication using MQTT/WebSocket
-* Device telemetry collection and remote control
-* Backend API for device and user management
-* Scalable architecture for multi-device integration
-
-**Focus:** System design, IoT architecture, backend engineering
+- 🔧 Firmware on ESP32 (ESP-IDF) and Zephyr
+- 🔌 Digital design in VHDL, synthesized with Vivado
+- 🤖 Robotics and edge computing on Raspberry Pi and ROS 2
+- 📡 IoT device management over MQTT and WebSocket
 
 ---
 
-## Selected Projects
+## 🚀 Flagship
 
-### IoT and Security Systems
+### [AsuraCore](https://github.com/WenaHarle/Asuracore) — IoT Device Management Platform
 
-* [IoT Wireless IDS (ESP32)](https://github.com/WenaHarle/iot-wireless-ids-esp32) — real-time wireless intrusion detection using edge devices
-* [IoT Padi Monitoring (Django API)](https://github.com/WenaHarle/IoT_Padi) — backend IoT system for agricultural monitoring
+A modular IoT platform for device communication, monitoring, and control.
 
-### Machine Learning
-
-* [License Plate Recognition](https://github.com/WenaHarle/UB_Gate) — computer vision pipeline for detection and recognition
-* [PyTorch Image Classifier](https://github.com/WenaHarle/pytorch-image-classifier) — CNN training and evaluation pipeline
-* [Audio Fingerprinting](https://github.com/WenaHarle/Audio_FP) — signal-based audio matching system
-
-### FPGA and Systems
-
-* [SNN on FPGA](https://github.com/WenaHarle/SNN4FPGA) — spiking neural network on hardware
-* [Shift and Add Multiplier](https://github.com/WenaHarle/Shift_and_Add_3bit_Mutiplier)
-* [Intel 4004 (VHDL)](https://github.com/WenaHarle/simple_intel_4004_vhdl)
-
-### Robotics and Embedded
-
-* [Humanoid Robot Simulation](https://github.com/WenaHarle/Simulation_22)
-* [Sign Language Detection (Raspberry Pi)](https://github.com/WenaHarle/sign_language_detection_raspberry)
+`MQTT` · `WebSocket` · `Telemetry` · `Remote control` · `Device API`
 
 ---
 
-## Technical Stack
+## 🛠️ Projects
 
-- **Languages:** Python, C/C++, Go, VHDL
-- **ML/AI:** PyTorch, OpenCV, Scikit-learn
-- **IoT/Embedded:** ESP32, ESP-IDF, MQTT, Raspberry Pi
-- **Backend:** FastAPI, Django, MariaDB, InfluxDB
-- **Hardware:** FPGA (Vivado), Digital Design
-
----
-
-## Documentation
-
-* [ROS 2 Guide](https://github.com/WenaHarle/ROS2_GUIDE)
-* [FPGA Learning](https://github.com/WenaHarle/FPGA_LEARNING)
-* [ESP-IDF Tutorial](https://github.com/WenaHarle/espidf-tutorial-bahasa)
-* [OpenCV Learning](https://github.com/WenaHarle/vision-image-analysis-opencv)
+| | Project | What it is |
+|---|---|---|
+| 🔩 | [Self-Healing Firmware](https://github.com/WenaHarle/Self_Healing_Firmware) | Firmware that detects faults and recovers on its own |
+| ⌨️ | [ESP HID](https://github.com/WenaHarle/ESP_HID) | Human interface device on ESP32 |
+| 🌀 | [Zephyr Indonesia](https://github.com/WenaHarle/Zephyr_Indonesia) | Zephyr RTOS work and resources |
+| 🧠 | [SNN on FPGA](https://github.com/WenaHarle/SNN4FPGA) | Spiking neural network in hardware |
+| 💾 | [Intel 4004 (VHDL)](https://github.com/WenaHarle/simple_intel_4004_vhdl) | Simple 4004 CPU in VHDL |
+| ✖️ | [3-bit Shift and Add Multiplier](https://github.com/WenaHarle/Shift_and_Add_3bit_Mutiplier) | Sequential multiplier design |
+| ✖️ | [4-bit Multiplier (ROM)](https://github.com/WenaHarle/4-Bit-Shift-and-Add-Binary-Multiplier-Using-ROM) | Shift and add multiplier using ROM |
+| 🐾 | [Quadpod Robot](https://github.com/WenaHarle/quadpod-robot) | Four-legged walking robot |
+| 🦾 | [Humanoid Simulation](https://github.com/WenaHarle/Simulation_22) | Humanoid robot simulation |
+| 🖐️ | [Sign Language Detection](https://github.com/WenaHarle/sign_language_detection_raspberry) | Edge inference on Raspberry Pi |
 
 ---
 
-## Current Focus
+## 🧰 Tech Stack
 
-* IoT intrusion detection (edge + cloud architecture)
-* Quantitative systems and data engineering
-* Scalable AI system design
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,go,raspberrypi,arduino,linux,git,vscode&perline=9" />
+
+</div>
+
+- **Firmware:** ESP32, ESP-IDF, Zephyr, FreeRTOS
+- **Hardware:** FPGA (Vivado), VHDL, NGSpice, digital design
+- **Protocols:** MQTT, WebSocket, HID, Wi-Fi, BLE
+- **Backend (supporting):** FastAPI, Django, InfluxDB
 
 ---
 
-## Contact
+## 📚 Learning Resources
 
-[LinkedIn](https://linkedin.com/in/made-wena-harilegawa) • [Twitter](https://twitter.com/mwharlew) • [Instagram](https://instagram.com/mw.harilegawa)
+- [ESP-IDF Tutorial (Bahasa)](https://github.com/WenaHarle/espidf-tutorial-bahasa)
+- [FPGA Learning](https://github.com/WenaHarle/FPGA_LEARNING)
+- [ROS 2 Guide](https://github.com/WenaHarle/ROS2_GUIDE)
 
 ---
 
-Build systems, not just projects.
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/made-wena-harilegawa)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mwharlew)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mw.harilegawa)
+
+</div>
