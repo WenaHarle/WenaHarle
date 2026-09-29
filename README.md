@@ -54,6 +54,21 @@ A modular IoT platform for device communication, monitoring, and control.
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=WenaHarle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WenaHarle&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+<img src="https://streak-stats.demolab.com?user=WenaHarle&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WenaHarle&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
 ## 🧰 Tech Stack
 
 <div align="center">
