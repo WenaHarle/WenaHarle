@@ -35,6 +35,21 @@ A modular IoT platform for device communication, monitoring, and control.
 
 `MQTT` · `WebSocket` · `Telemetry` · `Remote control` · `Device API`
 
+### [Legowo](https://github.com/WenaHarle/Legowo) — IoT Platform for ESP32 · [lapp.madewena.com](https://lapp.madewena.com)
+
+An IoT platform with an Arduino library: connect an ESP32 in three lines, then send sensor data to a live
+dashboard, control pins from the web, and push firmware updates over the air.
+
+`Arduino library` · `MQTT over WSS` · `Real-time dashboard` · `OTA updates` · `Widgets`
+
+### [Uji AT Dashboard](https://github.com/WenaHarle/uji-at-dashboard) — ESP-AT Test Server · [ujiat.madewena.com](https://ujiat.madewena.com)
+
+A companion server for testing ESP32 AT firmware against real endpoints over the internet. 189 test cases,
+an automatic runner over Web Serial, guest accounts with isolated endpoints and MQTT credentials, and
+printable test reports.
+
+`ESP-AT` · `TCP/SSL` · `HTTP` · `MQTT` · `WebSocket` · `OTA` · `Web Serial` · `Docker`
+
 ---
 
 ## 🛠️ Projects
